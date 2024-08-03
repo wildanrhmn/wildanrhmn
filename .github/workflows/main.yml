@@ -35,6 +35,6 @@ jobs:
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: snakey
-          build_dir: buildl
+          build_dir: buidl
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
