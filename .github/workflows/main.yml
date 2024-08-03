@@ -1,10 +1,10 @@
-name: mysnake
+name: snakey-snakey
 
 on:
   # run on every push to main branch
   push:
     branches:
-      - main
+      - master
 
   # run automatically once every day
   schedule:
@@ -19,7 +19,7 @@ jobs:
     timeout-minutes: 10
     steps:
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
-      - name: snek vector born
+      - name: snakey born
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -34,7 +34,7 @@ jobs:
       - name: snek slither to page
         uses: crazy-max/ghaction-github-pages@v3
         with:
-          target_branch: snek
+          target_branch: snakeyborn
           build_dir: buidl
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
