@@ -64,6 +64,3 @@
 </div>
 
 ![snek go brr](https://raw.githubusercontent.com/wildanrhmn/wildanrhmn/snakeyborn/snek-dark.svg)
-
-------
-Inspired By: [zillastar](https://github.com/zillastar)
