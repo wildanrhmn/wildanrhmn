@@ -1,10 +1,10 @@
-name: stop eating my contribution bro
+name: mysnake
 
 on:
   # run on every push to main branch
   push:
     branches:
-      - master
+      - main
 
   # run automatically once every day
   schedule:
@@ -34,7 +34,7 @@ jobs:
       - name: snek slither to page
         uses: crazy-max/ghaction-github-pages@v3
         with:
-          target_branch: snakey
+          target_branch: snek
           build_dir: buidl
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
