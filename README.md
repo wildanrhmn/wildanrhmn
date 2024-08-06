@@ -6,7 +6,7 @@
 
   <h2> - About Me -</h2>
 
-  - ⭐ Currently working at *PT Inovasi Talenta Digital*
+  - ⭐ Mainly worked on *Private Repositories*
   - 💀 Highly interested in *Blockchain Development*
   - 👾 A *Final Year Student* with a bunch things in mind
 
