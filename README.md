@@ -1,4 +1,4 @@
-
+ 
 <p align="center"><img src="https://res.cloudinary.com/dbllvvcv5/image/upload/v1722674273/github/metfu2rycov7hh6keszk.png" alt="metfu2rycov7hh6keszk"></p>
 
 <div>
@@ -18,7 +18,6 @@
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" />
   <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="dart" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" />
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="php" />
 
   <h5> Currently Into </h5>
   <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="rust" />
