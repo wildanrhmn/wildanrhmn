@@ -8,7 +8,7 @@
 
   - ⭐ Mainly worked on *Private Repositories*
   - 💀 Highly interested in *Blockchain Development*
-  - 👾 A *Final Year Student* with a bunch things in mind
+  - 👾 A freshly graduated overthinker
 
   <h2> - Current Skills -</h2>
   
